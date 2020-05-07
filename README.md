@@ -4,7 +4,6 @@
 
 - **Step 1**:
 
-create a folder then in your terminal:
 ```
 $ git clone https://github.com/ayoyu/Bitcoin-Prediction
 ```
@@ -15,7 +14,7 @@ $ pip install -r requirements.txt
 ```
 - **Step3**:
 ```
-$ python app.py
+$ python3 app.py
 ```
 
 

@@ -1,0 +1,5 @@
+env/
+__pycache__/
+bitcoin.db
+errors.log
+mytwitter_credentials.yaml
